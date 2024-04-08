@@ -1,2 +1,2 @@
-# hugo-gh-pages
-Test installation with hugo and gh pages
+# me
+trying to build a website with hugo
